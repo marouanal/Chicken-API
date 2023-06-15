@@ -1,6 +1,6 @@
 # Documentation de l'API Chicken
 
-Cette API permet de gérer des informations sur les poulets (chickens) tels que leur nom, poids, date de naissance, nombre de pas effectués, et s'ils courent ou non.
+Cette API permet de gérer des informations sur Chickens tels que leur nom, poids, date de naissance, nombre de pas effectués, et s'ils courent ou non.
 
 ## Prérequis
 
@@ -11,10 +11,12 @@ Cette API permet de gérer des informations sur les poulets (chickens) tels que 
 
 1. Clonez ce dépôt de code :
 
+git clone <https://github.com/marouanal/Chicken-API
+
 
 2. Accédez au répertoire du projet :
 
-cd chicken-api
+cd clac
 
 
 3. Installez les dépendances :
@@ -29,10 +31,11 @@ npm install
 
 5. Démarrez l'application :
 
-npm start
+npm run dev
 
 
 L'API sera disponible à l'adresse `http://localhost:3000`.
+Testez avec POSTMAN 
 
 ## Endpoints disponibles
 
