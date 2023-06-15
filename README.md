@@ -107,7 +107,4 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 - Votre nom
 
-## License
-
-Ce projet est sous license MIT. Veuillez consulter le fichier LICENSE pour plus de détails.
 
