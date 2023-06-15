@@ -53,8 +53,6 @@ Un chicken est représenté par un objet JSON avec les propriétés suivantes :
 - `steps` (number) : Le nombre de pas effectués par le chicken.
 - `isRunning` (boolean) : Indique si le chicken est en train de courir.
 
-## Exemples d'utilisation
-
 ### Ajouter un chicken
 
 POST /chicken
@@ -99,12 +97,8 @@ PATCH /chicken/run/:id
 DELETE /chicken/:id
 
 
-## Contributions
-
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez créer une pull request avec vos modifications.
-
 ## Auteurs
 
-- Votre nom
+- MAROUAN ALOUACHE
 
 
